@@ -1,0 +1,35 @@
+12/5/2015
+ 
+Welcome to RamblerRides!
+INTRODUCTION
+------------
+The goal of RamblerRides is to provide current students and faculty at Loyola University of Chicago 
+v1.0 
+
+
+
+
+* To submit bug reports and feature suggestions, or to track changes:
+   https://github.com/
+
+REQUIREMENTS
+------------
+
+This module requires the following modules:
+ * Views (https://github.com/apple/swift)
+
+TROUBLESHOOTING
+
+MAINTAINERS
+-----------
+
+Current maintainers:
+* Tyler Bobella (tylerbobella) - https://github.com/tylerbobella
+* Christian Lanzer (Calanzer) - https://github.com/clanzer
+* Matt Baumann (mattbaumann1)- https://github.com/mattbaumann1
+* Kyle Lage(klage) - https://github.com/klage
+About us/Qualifications
+    Tyler Bobella - Tyler received a BS in Computer Science in 2014 and is a first year graduate student in Computer Science. After his undergraduate studies, Tyler spent a year working in the software industry working as a full stack developer with a wide variety of languages and web frameworks such as Angular, Groovy and Grails, NodeJS, Ruby on Rails, and others. 
+    Matt Baumann - Matt studied and worked as a classical archaeologist for many years before becoming involved as a design consultant in the development of a field recording mobile application for archaeological excavations. It was work this project in addition to working on the design of a heart patient mobile application that inspired him to return to school for software engineering. He is currently finishing up his BS and will start the MS program in January. 
+    Kyle Lage - Kyle transferred from College of DuPage in 2014 to the University of Loyola in Chicago. At College of DuPage Kyle studied Networking, computer forensics, computer information systems and also studied architecture. Kyle is currently working on getting his BS in Information Technology and will be graduating in May of 2016. 
+    Christian Lanzer - Christian came to Loyola University of Chicago in 2013 as a freshman. At Loyola, Christian is a junior studying to get his BS in Software Engineering, and BS in Economics. Christian is also a part-time employee at Loyola’s IT department in the Granada building working on imaging computers, deploying applications silently with scripts, simple computer installs and technical support around campus.  
